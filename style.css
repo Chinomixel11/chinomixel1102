@@ -1,0 +1,47 @@
+body{font-family: Arial, Helvetica, sans-serif;
+cursor:crosshair;
+background-image: url(fondo\ de\ pantalla\ 2.jpg);
+background-position: center center;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+
+div {align-items: center;
+    justify-content: center;
+    border-style:inset;
+}
+
+section {display:inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-style:inset;
+}
+
+video {
+    border: 5px solid black;
+border-radius: 10px solid white;
+}
+   
+section {
+    align-items: center;
+    justify-content: center;
+}    
+        
+#BUSCADOR {text-align: center;
+flex-direction: column;
+margin: auto;
+opacity: 90%;}
+
+#MARCAS {
+text-align: center;
+flex-direction: column;
+margin: auto;
+opacity: 90%;}
+
+#REGISTRO {
+    margin: 0 auto;
+        flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;}
